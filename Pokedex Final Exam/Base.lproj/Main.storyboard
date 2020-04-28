@@ -140,7 +140,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="Yus-o2-yRV"/>
                     <connections>
-                        <outlet property="baseXpLabel" destination="hgz-wL-J5d" id="e76-SM-dte"/>
+                        <outlet property="base_experienceLabel" destination="hgz-wL-J5d" id="e76-SM-dte"/>
                         <outlet property="heightLabel" destination="9pN-vX-hqj" id="woU-ax-PXY"/>
                         <outlet property="imageView" destination="eou-Hl-xMe" id="726-0w-Hyq"/>
                         <outlet property="nameLabel" destination="GaY-bI-rr9" id="Z6K-Mr-Vsd"/>
